@@ -9,8 +9,8 @@ from instapy.util import smart_run
 
 
 # login credentials
-insta_username = ''
-insta_password = ''
+insta_username = 'mimi_storepet'
+insta_password = '18l10t18'
 
 dont_likes = ['sex','nude','naked','beef','pork','seafood',
             'egg','chicken','cheese','sausage','lobster',
@@ -26,7 +26,7 @@ dont_likes = ['sex','nude','naked','beef','pork','seafood',
 
 friends = ['list of friends I do not want to interact with']
 
-like_tag_list = ['vegan','veganfoodshare', 'veganfood', 'whatveganseat', 'veganfoodie', 'veganism', 'govegan', 'veganism', 'vegansofig', 'veganfoodshare', 'veganfit', 'veggies']
+like_tag_list = ['pet', 'cachorrosdobrasil', 'instagatos', 'cachorrosdoinstagram', 'euamomeupet', 'euamomeugato', 'euamomeucachorro', 'cachorrosdobrasil', 'instacat', 'instadog', 'pets', 'dog', 'petlovers', 'amocachorro', 'puppylovers' , 'brinquedospet']
 
 # prevent posts that contain some plantbased meat from being skipped
 ignore_list = ['vegan', 'veggie', 'plantbased']
